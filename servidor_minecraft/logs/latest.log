@@ -73,3 +73,19 @@
 [22:45:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Done (8.885s)! For help, type "help" or "?"
 [22:45:09] [Server thread/INFO] [FML]: Unloading dimension -1
 [22:45:09] [Server thread/INFO] [FML]: Unloading dimension 1
+[22:58:28] [Server thread/INFO] [FML]: Connection received without FML marker, assuming vanilla.
+[22:58:28] [Server thread/INFO] [FML]: Opening channel which already seems to have a state set. This is a vanilla connection. Handshake handler will stop now
+[22:58:28] [Server thread/INFO] [FML]: [Server thread] Server side vanilla connection established
+[22:58:28] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Wicho_18[/127.247.224.96:36039] logged in with entity id 2989 at (-95.5, 73.0, 253.5)
+[22:58:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Wicho_18 joined the game
+[22:58:51] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Wicho_18 lost connection: Disconnected
+[22:58:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Wicho_18 left the game
+[22:59:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Stopping the server
+[22:59:11] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[22:59:11] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[22:59:11] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[22:59:11] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/overworld
+[22:59:11] [Server thread/INFO] [FML]: Unloading dimension 0
+[22:59:11] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[22:59:11] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[22:59:11] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds

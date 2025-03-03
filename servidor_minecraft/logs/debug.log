@@ -478,3 +478,71 @@
 [22:54:18] [Server thread/DEBUG] [FML]: The world 1cf68073 (world) may have leaked: seen 55 times.
 
 [22:54:53] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:55:08] [Server thread/DEBUG] [FML]: The world 4d57880e (world) may have leaked: seen 60 times.
+
+[22:55:08] [Server thread/DEBUG] [FML]: The world 1cf68073 (world) may have leaked: seen 60 times.
+
+[22:55:38] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:55:58] [Server thread/DEBUG] [FML]: The world 4d57880e (world) may have leaked: seen 65 times.
+
+[22:55:58] [Server thread/DEBUG] [FML]: The world 1cf68073 (world) may have leaked: seen 65 times.
+
+[22:56:23] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:56:48] [Server thread/DEBUG] [FML]: The world 4d57880e (world) may have leaked: seen 70 times.
+
+[22:56:48] [Server thread/DEBUG] [FML]: The world 1cf68073 (world) may have leaked: seen 70 times.
+
+[22:57:08] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:57:38] [Server thread/DEBUG] [FML]: The world 4d57880e (world) may have leaked: seen 75 times.
+
+[22:57:38] [Server thread/DEBUG] [FML]: The world 1cf68073 (world) may have leaked: seen 75 times.
+
+[22:57:53] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:58:28] [Server thread/INFO] [FML]: Connection received without FML marker, assuming vanilla.
+[22:58:28] [Server thread/INFO] [FML]: Opening channel which already seems to have a state set. This is a vanilla connection. Handshake handler will stop now
+[22:58:28] [Server thread/INFO] [FML]: [Server thread] Server side vanilla connection established
+[22:58:28] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Wicho_18[/127.247.224.96:36039] logged in with entity id 2989 at (-95.5, 73.0, 253.5)
+[22:58:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Wicho_18 joined the game
+[22:58:28] [Server thread/DEBUG] [FML]: The world 4d57880e (world) may have leaked: seen 80 times.
+
+[22:58:28] [Server thread/DEBUG] [FML]: The world 1cf68073 (world) may have leaked: seen 80 times.
+
+[22:58:38] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:58:51] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Wicho_18 lost connection: Disconnected
+[22:58:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Wicho_18 left the game
+[22:59:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Stopping the server
+[22:59:11] [Server thread/TRACE] [FML]: Sending event FMLServerStoppingEvent to mod minecraft
+[22:59:11] [Server thread/TRACE] [FML]: Sent event FMLServerStoppingEvent to mod minecraft
+[22:59:11] [Server thread/DEBUG] [FML]: Bar Step: ServerStopping - Minecraft took 0.000s
+[22:59:11] [Server thread/TRACE] [FML]: Sending event FMLServerStoppingEvent to mod mcp
+[22:59:11] [Server thread/TRACE] [FML]: Sent event FMLServerStoppingEvent to mod mcp
+[22:59:11] [Server thread/DEBUG] [FML]: Bar Step: ServerStopping - Minecraft Coder Pack took 0.000s
+[22:59:11] [Server thread/TRACE] [FML]: Sending event FMLServerStoppingEvent to mod FML
+[22:59:11] [Server thread/TRACE] [FML]: Sent event FMLServerStoppingEvent to mod FML
+[22:59:11] [Server thread/DEBUG] [FML]: Bar Step: ServerStopping - Forge Mod Loader took 0.000s
+[22:59:11] [Server thread/TRACE] [FML]: Sending event FMLServerStoppingEvent to mod forge
+[22:59:11] [Server thread/TRACE] [FML]: Sent event FMLServerStoppingEvent to mod forge
+[22:59:11] [Server thread/DEBUG] [FML]: Bar Step: ServerStopping - Minecraft Forge took 0.000s
+[22:59:11] [Server thread/DEBUG] [FML]: Bar Finished: ServerStopping took 0.001s
+[22:59:11] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[22:59:11] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[22:59:11] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[22:59:11] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/overworld
+[22:59:11] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:59:11] [Server thread/INFO] [FML]: Unloading dimension 0
+[22:59:11] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod minecraft
+[22:59:11] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod minecraft
+[22:59:11] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Minecraft took 0.000s
+[22:59:11] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod mcp
+[22:59:11] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod mcp
+[22:59:11] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Minecraft Coder Pack took 0.000s
+[22:59:11] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod FML
+[22:59:11] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod FML
+[22:59:11] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Forge Mod Loader took 0.000s
+[22:59:11] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod forge
+[22:59:11] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod forge
+[22:59:11] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Minecraft Forge took 0.000s
+[22:59:11] [Server thread/DEBUG] [FML]: Bar Finished: ServerStopped took 0.001s
+[22:59:11] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[22:59:11] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[22:59:11] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
