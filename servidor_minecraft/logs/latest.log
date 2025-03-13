@@ -1,84 +1,208 @@
-[03:46:49] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[03:46:49] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[03:46:49] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[03:46:49] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2860 for Minecraft 1.12.2 loading
-[03:46:49] [main/INFO] [FML]: Java is OpenJDK 64-Bit Server VM, version 1.8.0_442, running on Linux:amd64:6.5.0-1025-azure, installed at /usr/lib/jvm/java-8-openjdk-amd64/jre
-[03:46:49] [main/INFO] [FML]: Searching /workspaces/super-guacamole/servidor_minecraft/./mods for mods
-[03:46:49] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[03:46:49] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
-[03:46:49] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[03:46:49] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[03:46:49] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[03:46:51] [main/INFO] [FML]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
-[03:46:51] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[03:46:51] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
-[03:46:51] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
-[03:46:51] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
-[03:46:51] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
-[03:46:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting minecraft server version 1.12.2
-[03:46:54] [Server thread/INFO] [FML]: MinecraftForge v14.23.5.2860 Initialized
-[03:46:54] [Server thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
-[03:46:54] [Server thread/INFO] [FML]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
-[03:46:54] [Server thread/INFO] [FML]: Replaced 1227 ore ingredients
-[03:46:54] [Server thread/INFO] [FML]: Config directory created successfully
-[03:46:54] [Server thread/INFO] [FML]: Searching /workspaces/super-guacamole/servidor_minecraft/./mods for mods
-[03:46:55] [Server thread/INFO] [FML]: Forge Mod Loader has identified 4 mods to load
-[03:46:55] [Server thread/WARN] [FML]: Missing English translation for FML: assets/fml/lang/en_us.lang
-[03:46:55] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge] at CLIENT
-[03:46:55] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge] at SERVER
-[03:46:55] [Server thread/INFO] [FML]: Processing ObjectHolder annotations
-[03:46:55] [Server thread/INFO] [FML]: Found 1168 ObjectHolder annotations
-[03:46:55] [Server thread/INFO] [FML]: Identifying ItemStackHolder annotations
-[03:46:55] [Server thread/INFO] [FML]: Found 0 ItemStackHolder annotations
-[03:46:55] [Server thread/INFO] [FML]: Configured a dormant chunk cache size of 0
-[03:46:55] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
-[03:46:55] [Server thread/INFO] [FML]: Applying holder lookups
-[03:46:55] [Server thread/INFO] [FML]: Holder lookups applied
-[03:46:55] [Server thread/INFO] [FML]: Applying holder lookups
-[03:46:55] [Server thread/INFO] [FML]: Holder lookups applied
-[03:46:55] [Server thread/INFO] [FML]: Applying holder lookups
-[03:46:55] [Server thread/INFO] [FML]: Holder lookups applied
-[03:46:55] [Server thread/INFO] [FML]: Applying holder lookups
-[03:46:55] [Server thread/INFO] [FML]: Holder lookups applied
-[03:46:55] [Server thread/INFO] [FML]: Injecting itemstacks
-[03:46:55] [Server thread/INFO] [FML]: Itemstack injection complete
-[03:46:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Loading properties
-[03:46:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Default game type: SURVIVAL
-[03:46:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Generating keypair
-[03:46:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting Minecraft server on *:25565
-[03:46:55] [Server thread/INFO] [net.minecraft.network.NetworkSystem]: Using epoll channel type
-[03:46:55] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[03:46:55] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: The server will make no attempt to authenticate usernames. Beware.
-[03:46:55] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[03:46:55] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: To change this, set "online-mode" to "true" in the server.properties file.
-[03:46:55] [Server thread/INFO] [FML]: Applying holder lookups
-[03:46:55] [Server thread/INFO] [FML]: Holder lookups applied
-[03:46:55] [Server thread/INFO] [FML]: Injecting itemstacks
-[03:46:55] [Server thread/INFO] [FML]: Itemstack injection complete
-[03:46:56] [Server thread/INFO] [FML]: Forge Mod Loader has successfully loaded 4 mods
-[03:46:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Preparing level "world"
-[03:46:56] [Server thread/INFO] [FML]: Loading dimension 0 (world) (net.minecraft.server.dedicated.DedicatedServer@1d2fd95f)
-[03:46:56] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 488 advancements
-[03:46:56] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Found status: AHEAD Target: null
-[03:46:56] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@1d2fd95f)
-[03:46:56] [Server thread/INFO] [FML]: Loading dimension 1 (world) (net.minecraft.server.dedicated.DedicatedServer@1d2fd95f)
-[03:46:56] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for level 0
-[03:46:57] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 7%
-[03:46:58] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 15%
-[03:46:59] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 25%
-[03:47:00] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 40%
-[03:47:02] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 55%
-[03:47:03] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 73%
-[03:47:04] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 87%
-[03:47:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Done (8.777s)! For help, type "help" or "?"
-[03:47:04] [Server thread/INFO] [FML]: Unloading dimension -1
-[03:47:04] [Server thread/INFO] [FML]: Unloading dimension 1
-[03:47:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Stopping the server
-[03:47:17] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
-[03:47:17] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
-[03:47:17] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
-[03:47:17] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/overworld
-[03:47:18] [Server thread/INFO] [FML]: Unloading dimension 0
-[03:47:18] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
-[03:47:18] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
-[03:47:18] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[00:32:51] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[00:32:51] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[00:32:51] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[00:32:51] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2860 for Minecraft 1.12.2 loading
+[00:32:51] [main/INFO] [FML]: Java is OpenJDK 64-Bit Server VM, version 1.8.0_442, running on Linux:amd64:6.8.0-1021-azure, installed at /usr/lib/jvm/java-8-openjdk-amd64/jre
+[00:32:51] [main/ERROR] [FML]: Unable to read the jar file BetterWithMods-1.12-2.3.19-1017.jar - ignoring
+java.util.zip.ZipException: error in opening zip file
+	at java.util.zip.ZipFile.open(Native Method) ~[?:1.8.0_442]
+	at java.util.zip.ZipFile.<init>(ZipFile.java:231) ~[?:1.8.0_442]
+	at java.util.zip.ZipFile.<init>(ZipFile.java:157) ~[?:1.8.0_442]
+	at java.util.jar.JarFile.<init>(JarFile.java:169) ~[?:1.8.0_442]
+	at java.util.jar.JarFile.<init>(JarFile.java:133) ~[?:1.8.0_442]
+	at net.minecraftforge.fml.relauncher.libraries.LibraryManager.extractPacked(LibraryManager.java:200) [forge-1.12.2-14.23.5.2860.jar:?]
+	at net.minecraftforge.fml.relauncher.libraries.LibraryManager.cleanDirectory(LibraryManager.java:169) [forge-1.12.2-14.23.5.2860.jar:?]
+	at net.minecraftforge.fml.relauncher.libraries.LibraryManager.setup(LibraryManager.java:97) [forge-1.12.2-14.23.5.2860.jar:?]
+	at net.minecraftforge.fml.relauncher.FMLLaunchHandler.setupHome(FMLLaunchHandler.java:106) [forge-1.12.2-14.23.5.2860.jar:?]
+	at net.minecraftforge.fml.relauncher.FMLLaunchHandler.setupServer(FMLLaunchHandler.java:87) [forge-1.12.2-14.23.5.2860.jar:?]
+	at net.minecraftforge.fml.relauncher.FMLLaunchHandler.configureForServerLaunch(FMLLaunchHandler.java:47) [forge-1.12.2-14.23.5.2860.jar:?]
+	at net.minecraftforge.fml.common.launcher.FMLServerTweaker.injectIntoClassLoader(FMLServerTweaker.java:62) [forge-1.12.2-14.23.5.2860.jar:?]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:115) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_442]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_442]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_442]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_442]
+	at net.minecraftforge.fml.relauncher.ServerLaunchWrapper.run(ServerLaunchWrapper.java:70) [forge-1.12.2-14.23.5.2860.jar:?]
+	at net.minecraftforge.fml.relauncher.ServerLaunchWrapper.main(ServerLaunchWrapper.java:34) [forge-1.12.2-14.23.5.2860.jar:?]
+[00:32:51] [main/INFO] [FML]: Searching /workspaces/super-guacamole/servidor_minecraft/./mods for mods
+[00:32:51] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in astralsorcery-1.12.2-1.10.3.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[00:32:51] [main/WARN] [FML]: The coremod hellfirepvp.astralsorcery.core.AstralCore does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[00:32:51] [main/WARN] [FML]: The coremod AstralCore (hellfirepvp.astralsorcery.core.AstralCore) is not signed!
+[00:32:51] [main/INFO] [Astral Core]: [AstralCore] Initialized.
+[00:32:51] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in backpacks+1.12.2+-+3.5.4.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[00:32:51] [main/WARN] [FML]: The coremod BCModPlugin (brad16840.core.BCModPlugin) is not signed!
+[00:32:51] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in BetterWithLib-1.12-1.5.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[00:32:51] [main/WARN] [FML]: The coremod LoadingPlugin (betterwithmods.library.core.LoadingPlugin) is not signed!
+[00:32:51] [main/ERROR] [FML]: Unable to read the jar file BetterWithMods-1.12-2.3.19-1017.jar - ignoring
+java.util.zip.ZipException: error in opening zip file
+	at java.util.zip.ZipFile.open(Native Method) ~[?:1.8.0_442]
+	at java.util.zip.ZipFile.<init>(ZipFile.java:231) ~[?:1.8.0_442]
+	at java.util.zip.ZipFile.<init>(ZipFile.java:157) ~[?:1.8.0_442]
+	at java.util.jar.JarFile.<init>(JarFile.java:169) ~[?:1.8.0_442]
+	at java.util.jar.JarFile.<init>(JarFile.java:133) ~[?:1.8.0_442]
+	at net.minecraftforge.fml.relauncher.CoreModManager.discoverCoreMods(CoreModManager.java:366) [forge-1.12.2-14.23.5.2860.jar:?]
+	at net.minecraftforge.fml.relauncher.CoreModManager.handleLaunch(CoreModManager.java:265) [forge-1.12.2-14.23.5.2860.jar:?]
+	at net.minecraftforge.fml.relauncher.FMLLaunchHandler.setupHome(FMLLaunchHandler.java:107) [forge-1.12.2-14.23.5.2860.jar:?]
+	at net.minecraftforge.fml.relauncher.FMLLaunchHandler.setupServer(FMLLaunchHandler.java:87) [forge-1.12.2-14.23.5.2860.jar:?]
+	at net.minecraftforge.fml.relauncher.FMLLaunchHandler.configureForServerLaunch(FMLLaunchHandler.java:47) [forge-1.12.2-14.23.5.2860.jar:?]
+	at net.minecraftforge.fml.common.launcher.FMLServerTweaker.injectIntoClassLoader(FMLServerTweaker.java:62) [forge-1.12.2-14.23.5.2860.jar:?]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:115) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_442]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_442]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_442]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_442]
+	at net.minecraftforge.fml.relauncher.ServerLaunchWrapper.run(ServerLaunchWrapper.java:70) [forge-1.12.2-14.23.5.2860.jar:?]
+	at net.minecraftforge.fml.relauncher.ServerLaunchWrapper.main(ServerLaunchWrapper.java:34) [forge-1.12.2-14.23.5.2860.jar:?]
+[00:32:51] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in CreativeCore_v1.9.35_mc1.12.2.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[00:32:51] [main/WARN] [FML]: The coremod com.creativemd.creativecore.core.CreativePatchingLoader does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[00:32:51] [main/WARN] [FML]: The coremod CreativePatchingLoader (com.creativemd.creativecore.core.CreativePatchingLoader) is not signed!
+[00:32:51] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in foamfix-0.10.3-1.12.2.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[00:32:51] [main/WARN] [FML]: The coremod pl.asie.foamfix.coremod.FoamFixCore does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[00:32:51] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[00:32:51] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[00:32:51] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[00:32:51] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[00:32:51] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[00:32:53] [main/INFO] [FML]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
+[00:32:53] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[00:32:53] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[00:32:53] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[00:32:53] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[00:32:53] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[00:32:53] [main/INFO] [Astral Core]: [AstralTransformer] Loading patches...
+[00:32:53] [main/INFO] [Astral Core]: [AstralTransformer] Initialized! Loaded 11 class patches!
+[00:32:53] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[00:32:53] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[00:32:53] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[00:32:53] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[00:32:53] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[00:32:53] [main/INFO] [Astral Core]: [AstralTransformer] Transforming amu : net.minecraft.world.World with 2 patches!
+[00:32:53] [main/INFO] [Astral Core]: [AstralTransformer] Skipping PATCHSUNBRIGHTNESSWORLDCLIENT as it can't be applied for side SERVER
+[00:32:53] [main/INFO] [Astral Core]: [AstralTransformer] Applied patch PATCHSUNBRIGHTNESSWORLDCOMMON
+[00:32:53] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:112]: Added INTERFACE: pl/asie/foamfix/coremod/patches/IFoamFixWorldRemovable
+[00:32:53] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:149]: Added METHOD: net.minecraft.world.World.foamfix_removeUnloadedEntities
+[00:32:53] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.patches.WorldServerRemovalPatch:apply:65]: Patched updateEntities in net/minecraft/world/WorldServer func_72939_s
+[00:32:53] [main/INFO] [Astral Core]: [AstralTransformer] Transforming vp : net.minecraft.entity.EntityLivingBase with 3 patches!
+[00:32:53] [main/INFO] [Astral Core]: [AstralTransformer] Applied patch PATCHAPPLYPOTIONEFFECTEVENT
+[00:32:54] [main/INFO] [Astral Core]: [AstralTransformer] Applied patch PATCHENTITYLIVINGBASEWATERSLOWDOWN
+[00:32:54] [main/INFO] [Astral Core]: [AstralTransformer] Applied patch PATCHUPDATEELYTRA
+[00:32:54] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
+[00:32:54] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:125]: Spliced in METHOD: net.minecraft.block.state.BlockStateContainer.createState
+[00:32:54] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:125]: Spliced in METHOD: net.minecraft.block.properties.PropertyEnum.equals
+[00:32:54] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:125]: Spliced in METHOD: net.minecraft.block.properties.PropertyEnum.hashCode
+[00:32:54] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:172]: Added FIELD: net.minecraft.block.properties.PropertyEnum.foamfix_hashCode
+[00:32:54] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:172]: Added FIELD: net.minecraft.block.properties.PropertyEnum.foamfix_hashCode_calced
+[00:32:54] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:125]: Spliced in METHOD: net.minecraft.block.properties.PropertyInteger.hashCode
+[00:32:54] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:172]: Added FIELD: net.minecraft.block.properties.PropertyInteger.foamfix_hashCode
+[00:32:54] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:172]: Added FIELD: net.minecraft.block.properties.PropertyInteger.foamfix_hashCode_calced
+[00:32:54] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:125]: Spliced in METHOD: net.minecraft.block.properties.PropertyBool.equals
+[00:32:54] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:125]: Spliced in METHOD: net.minecraft.block.properties.PropertyBool.hashCode
+[00:32:54] [main/INFO] [Astral Core]: [AstralTransformer] Transforming aip : net.minecraft.item.ItemStack with 2 patches!
+[00:32:54] [main/INFO] [Astral Core]: [AstralTransformer] Skipping PATCHMODIFYENCHANTMENTLEVELSTOOLTIP as it can't be applied for side SERVER
+[00:32:54] [main/INFO] [Astral Core]: [AstralTransformer] Skipping PATCHMODIFYENCHANTMENTLEVELSTOOLTIPEVENT as it can't be applied for side SERVER
+[00:32:54] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:125]: Spliced in METHOD: net.minecraft.tileentity.TileEntity.func_190559_a
+[00:32:54] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:125]: Spliced in METHOD: net.minecraft.block.BlockBed.func_189540_a
+[00:32:54] [main/INFO] [betterwithlib]: [betterwithlib ASM] Transforming dropEquipment
+[00:32:54] [main/INFO] [betterwithlib]: [betterwithlib ASM] Applying Transformation to method (Names [dropEquipment, func_82160_b, a] Descriptor (ZI)V)
+[00:32:54] [main/INFO] [betterwithlib]: [betterwithlib ASM] Located Method, patching...
+[00:32:54] [main/INFO] [betterwithlib]: [betterwithlib ASM] Located patch target node L0
+[00:32:54] [main/INFO] [betterwithlib]: [betterwithlib ASM] Patch result: true
+[00:32:55] [main/INFO] [STDOUT]: [pl.asie.patchy.helpers.ConstructorReplacingTransformer$FFMethodVisitor:visitTypeInsn:75]: Replaced NEW for net/minecraft/tileentity/TileEntityHopper to pl/asie/foamfix/common/TileEntityFasterHopper
+[00:32:55] [main/INFO] [STDOUT]: [pl.asie.patchy.helpers.ConstructorReplacingTransformer$FFMethodVisitor:visitMethodInsn:87]: Replaced INVOKESPECIAL for net/minecraft/tileentity/TileEntityHopper to pl/asie/foamfix/common/TileEntityFasterHopper
+[00:32:55] [main/INFO] [betterwithlib]: [betterwithlib ASM] Transforming setEquipmentBasedOnDifficulty
+[00:32:55] [main/INFO] [betterwithlib]: [betterwithlib ASM] Applying Transformation to method (Names [setEquipmentBasedOnDifficulty, func_180481_a, a] Descriptor (Lnet/minecraft/world/DifficultyInstance;)V)
+[00:32:55] [main/INFO] [betterwithlib]: [betterwithlib ASM] Located Method, patching...
+[00:32:55] [main/INFO] [betterwithlib]: [betterwithlib ASM] Located patch target node L0
+[00:32:55] [main/INFO] [betterwithlib]: [betterwithlib ASM] Patch result: true
+[00:32:55] [main/INFO] [betterwithlib]: [betterwithlib ASM] Transforming setEquipmentBasedOnDifficulty
+[00:32:55] [main/INFO] [betterwithlib]: [betterwithlib ASM] Applying Transformation to method (Names [setEquipmentBasedOnDifficulty, func_180481_a, a] Descriptor (Lnet/minecraft/world/DifficultyInstance;)V)
+[00:32:55] [main/INFO] [betterwithlib]: [betterwithlib ASM] Located Method, patching...
+[00:32:55] [main/INFO] [betterwithlib]: [betterwithlib ASM] Located patch target node L0
+[00:32:55] [main/INFO] [betterwithlib]: [betterwithlib ASM] Patch result: true
+[00:32:55] [main/INFO] [betterwithlib]: [betterwithlib ASM] Transforming setEquipmentBasedOnDifficulty
+[00:32:55] [main/INFO] [betterwithlib]: [betterwithlib ASM] Applying Transformation to method (Names [setEquipmentBasedOnDifficulty, func_180481_a, a] Descriptor (Lnet/minecraft/world/DifficultyInstance;)V)
+[00:32:55] [main/INFO] [betterwithlib]: [betterwithlib ASM] Located Method, patching...
+[00:32:55] [main/INFO] [betterwithlib]: [betterwithlib ASM] Located patch target node L0
+[00:32:55] [main/INFO] [betterwithlib]: [betterwithlib ASM] Patch result: true
+[00:32:55] [main/INFO] [betterwithlib]: [betterwithlib ASM] Transforming setEquipmentBasedOnDifficulty
+[00:32:55] [main/INFO] [betterwithlib]: [betterwithlib ASM] Applying Transformation to method (Names [setEquipmentBasedOnDifficulty, func_180481_a, a] Descriptor (Lnet/minecraft/world/DifficultyInstance;)V)
+[00:32:55] [main/INFO] [betterwithlib]: [betterwithlib ASM] Located Method, patching...
+[00:32:55] [main/INFO] [betterwithlib]: [betterwithlib ASM] Located patch target node L0
+[00:32:55] [main/INFO] [betterwithlib]: [betterwithlib ASM] Patch result: true
+[00:32:55] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:125]: Spliced in METHOD: net.minecraft.tileentity.MobSpawnerBaseLogic.func_98279_f
+[00:32:55] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:172]: Added FIELD: net.minecraft.tileentity.MobSpawnerBaseLogic.foamfix_activatedCache
+[00:32:55] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:172]: Added FIELD: net.minecraft.tileentity.MobSpawnerBaseLogic.foamfix_activatedCacheTime
+[00:32:55] [main/INFO] [betterwithlib]: [betterwithlib ASM] Transforming setEquipmentBasedOnDifficulty
+[00:32:55] [main/INFO] [betterwithlib]: [betterwithlib ASM] Applying Transformation to method (Names [setEquipmentBasedOnDifficulty, func_180481_a, a] Descriptor (Lnet/minecraft/world/DifficultyInstance;)V)
+[00:32:55] [main/INFO] [betterwithlib]: [betterwithlib ASM] Located Method, patching...
+[00:32:55] [main/INFO] [betterwithlib]: [betterwithlib ASM] Located patch target node L0
+[00:32:55] [main/INFO] [betterwithlib]: [betterwithlib ASM] Patch result: true
+[00:32:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting minecraft server version 1.12.2
+[00:32:56] [Server thread/INFO] [FML]: MinecraftForge v14.23.5.2860 Initialized
+[00:32:56] [Server thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
+[00:32:56] [Server thread/INFO] [FML]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
+[00:32:56] [Server thread/INFO] [FML]: Replaced 1227 ore ingredients
+[00:32:57] [Server thread/INFO] [FML]: Searching /workspaces/super-guacamole/servidor_minecraft/./mods for mods
+[00:32:57] [Server thread/WARN] [FML]: Zip file BetterWithMods-1.12-2.3.19-1017.jar failed to read properly, it will be ignored
+java.util.zip.ZipException: error in opening zip file
+	at java.util.zip.ZipFile.open(Native Method) ~[?:1.8.0_442]
+	at java.util.zip.ZipFile.<init>(ZipFile.java:231) ~[?:1.8.0_442]
+	at java.util.zip.ZipFile.<init>(ZipFile.java:157) ~[?:1.8.0_442]
+	at java.util.jar.JarFile.<init>(JarFile.java:169) ~[?:1.8.0_442]
+	at java.util.jar.JarFile.<init>(JarFile.java:133) ~[?:1.8.0_442]
+	at net.minecraftforge.fml.common.discovery.JarDiscoverer.discover(JarDiscoverer.java:56) [JarDiscoverer.class:?]
+	at net.minecraftforge.fml.common.discovery.ContainerType.findMods(ContainerType.java:47) [ContainerType.class:?]
+	at net.minecraftforge.fml.common.discovery.ModCandidate.explore(ModCandidate.java:74) [ModCandidate.class:?]
+	at net.minecraftforge.fml.common.discovery.ModDiscoverer.identifyMods(ModDiscoverer.java:93) [ModDiscoverer.class:?]
+	at net.minecraftforge.fml.common.Loader.identifyMods(Loader.java:427) [Loader.class:?]
+	at net.minecraftforge.fml.common.Loader.loadMods(Loader.java:568) [Loader.class:?]
+	at net.minecraftforge.fml.server.FMLServerHandler.beginServerLoading(FMLServerHandler.java:98) [FMLServerHandler.class:?]
+	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStart(FMLCommonHandler.java:333) [FMLCommonHandler.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:125) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_442]
+[00:32:57] [Server thread/WARN] [FML]: Mod codechickenlib is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 3.2.2.354
+[00:32:57] [Server thread/INFO] [FML]: Disabling mod fbp it is client side only.
+[00:32:58] [Server thread/INFO] [FML]: Forge Mod Loader has identified 52 mods to load
+[00:32:58] [Server thread/WARN] [FML]: Missing English translation for FML: assets/fml/lang/en_us.lang
+[00:32:58] [Server thread/WARN] [FML]: Missing English translation for betterwithlib: assets/betterwithlib/lang/en_us.lang
+[00:32:58] [Server thread/WARN] [FML]: Missing English translation for bibliotheca: assets/bibliotheca/lang/en_us.lang
+[00:32:58] [Server thread/WARN] [FML]: Missing English translation for chameleon: assets/chameleon/lang/en_us.lang
+[00:32:58] [Server thread/WARN] [FML]: Missing English translation for codechickenlib: assets/codechickenlib/lang/en_us.lang
+[00:32:58] [Server thread/WARN] [FML]: Missing English translation for foamfix: assets/foamfix/lang/en_us.lang
+[00:32:58] [Server thread/WARN] [FML]: Missing English translation for mcjtylib_ng: assets/mcjtylib_ng/lang/en_us.lang
+[00:32:58] [Server thread/WARN] [FML]: Missing English translation for quickleafdecay: assets/quickleafdecay/lang/en_us.lang
+[00:32:58] [Server thread/WARN] [FML]: Missing English translation for thutcore_compat: assets/thutcore_compat/lang/en_us.lang
+[00:32:58] [Server thread/WARN] [FML]: Missing English translation for drpcmmaarg: assets/drpcmmaarg/lang/en_us.lang
+[00:32:58] [Server thread/WARN] [FML]: Missing English translation for drplibrary: assets/drplibrary/lang/en_us.lang
+[00:32:58] [Server thread/WARN] [FML]: Missing English translation for drpcmlocks: assets/drpcmlocks/lang/en_us.lang
+[00:32:58] [Server thread/FATAL] [FML]: net.minecraftforge.fml.common.MissingModsException: Mod brandonscore (Brandon's Core) requires [redstoneflux]
+[00:32:58] [Server thread/FATAL] [FML]: net.minecraftforge.fml.common.MissingModsException: Mod mca (Minecraft Comes Alive) requires [radixcore@[1.12.x-2.2.1,)]
+[00:32:58] [Server thread/FATAL] [FML]: net.minecraftforge.fml.common.MissingModsException: Mod camping (The Camping Mod 2) requires [corerm@[1.3.1,)]
+[00:32:58] [Server thread/ERROR] [net.minecraft.server.MinecraftServer]: Encountered an unexpected exception
+net.minecraftforge.fml.common.MultipleModsErrored: 
+Missing Mods:
+	unknown : need any: have missing
+
+Missing Mods:
+	unknown : need [1.12.x-2.2.1,): have missing
+
+Missing Mods:
+	unknown : need [1.3.1,): have missing
+
+
+	at net.minecraftforge.fml.common.Loader.sortModList(Loader.java:300) ~[Loader.class:?]
+	at net.minecraftforge.fml.common.Loader.loadMods(Loader.java:572) ~[Loader.class:?]
+	at net.minecraftforge.fml.server.FMLServerHandler.beginServerLoading(FMLServerHandler.java:98) ~[FMLServerHandler.class:?]
+	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStart(FMLCommonHandler.java:333) ~[FMLCommonHandler.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:125) ~[nz.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_442]
+[00:32:58] [Server thread/ERROR] [net.minecraft.server.MinecraftServer]: This crash report has been saved to: /workspaces/super-guacamole/servidor_minecraft/./crash-reports/crash-2025-03-13_00.32.58-server.txt
+[00:32:58] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[00:32:58] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[00:32:58] [Server thread/INFO] [FML]: The state engine was in incorrect state CONSTRUCTING and forced into state SERVER_STOPPED. Errors may have been discarded.
+[00:32:58] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[00:32:58] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
